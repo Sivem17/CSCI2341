@@ -1,0 +1,30 @@
+Decoder.txt
+========================================
+ProgramInfo
+
+This program decodes a previously-encoded file and writes the plain text form
+of the file to an output file. It requires two command-line parameters:
+
+1. The first command-line parameter must be the name of the input file, and
+   if the file is not in the current directory it may include the path to the
+   file. This file will contain the encoded text to be decoded.
+
+2. The second command-line parameter must be the name of the output file, and
+   if the file is to be written to a location other than the current directory,
+   it may include the path to the file. This file will contain the decoded
+   plain text.
+
+This program does not perform any error checks, so the user is responsible for
+ensuring that both files named on the command line can be opened, and that the
+first file is a properly encoded file of text to be decoded.
+
+
+
+
+
+
+
+                                                                  Screen 1 of 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------
+========================================

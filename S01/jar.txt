@@ -1,0 +1,5 @@
+cvfe Decoder.jar Decoder Decoder.class 
+Decoder.txt
+-C J:\jxtra OpeningScreen.class
+-C J:\jxtra TextItems.class
+-C J:\jxtra Utils.class
